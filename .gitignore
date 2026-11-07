@@ -1,0 +1,9 @@
+# Gepackte Mod-Zips (baut tools/package.sh bzw. der Workflow)
+dist/
+
+# Projektregeln für Claude – nur lokal
+CLAUDE.md
+.claude/
+
+# Python-Zwischendateien der Werkzeuge
+__pycache__/

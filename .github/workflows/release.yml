@@ -157,6 +157,6 @@ jobs:
           ' changelog.txt > release-notes.md
           [ -s release-notes.md ] || echo "Version $VERSION" > release-notes.md
           gh release create "v$VERSION" "$ZIP" \
-            --title "Unified Train Logistics $VERSION" \
+            --title "$(jq -r '.title' info.json) $VERSION" \
             --notes-file release-notes.md \
             --target "${{ github.sha }}"
