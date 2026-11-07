@@ -69,6 +69,16 @@ tick “Show on the TouchDeck” and pick a slot 1–8 to see that station on th
 - At the start of a game all research is “trigger research” (craft, mine, build …), which cannot be
   queued – so there are no suggestions yet.
 
+## How it is made
+
+I'm Marcel. TouchDeck Bridge is written with AI (Claude by Anthropic) – the code and most of the
+texts. I decide what it should do and test every version myself in my own saves before it goes
+online. There are also automated tests in
+[`tools/`](https://github.com/Marcel1853/TouchDeck_Bridge/tree/main/tools). I play and test on Linux.
+
+Bug reports and ideas help a lot – post them in the
+[discussion](https://mods.factorio.com/mod/touchdeck-bridge/discussion).
+
 ## Examples, license and ideas
 
 The features are **examples** of what a game and TouchDeck can do together. The mod is under the

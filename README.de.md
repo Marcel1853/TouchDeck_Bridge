@@ -70,6 +70,16 @@ allen angehefteten Stationen.
 - Am Spielanfang gibt es nur „Auslöser-Forschungen“ (herstellen, abbauen, bauen …), die sich nicht
   einreihen lassen – deshalb gibt es dann noch keine Vorschläge.
 
+## Wie der Mod entsteht
+
+Ich bin Marcel. TouchDeck Bridge schreibe ich mit KI (Claude von Anthropic) – den Code und die
+meisten Texte. Ich lege fest, was der Mod können soll, und teste jede Version selbst in meinen
+Spielständen, bevor sie online geht. Dazu gibt es automatische Tests in
+[`tools/`](https://github.com/Marcel1853/TouchDeck_Bridge/tree/main/tools). Ich spiele und teste unter Linux.
+
+Fehlerberichte und Ideen helfen sehr – am besten in der
+[Diskussion](https://mods.factorio.com/mod/touchdeck-bridge/discussion).
+
 ## Beispiele, Lizenz und Ideen
 
 Die Funktionen sind **Beispiele** dafür, was ein Spiel und TouchDeck zusammen können. Der Mod steht
