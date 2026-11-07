@@ -5,7 +5,7 @@ remote for your PC that turns a phone or tablet into a control panel. Research, 
 production, evolution and (with UTLogistics) your trains appear live on the buttons, and buttons
 pause, speed up, save or queue research.
 
-**English** · [Deutsch](README.de.md)
+**English** · [Deutsch](https://github.com/Marcel1853/TouchDeck_Bridge/blob/main/README.de.md)
 
 - Needs Factorio 2.1. Space Age is optional.
 - **Works together with [UTLogistics](https://mods.factorio.com/mod/UTLogistics)** if it is installed:

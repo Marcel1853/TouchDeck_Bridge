@@ -5,7 +5,7 @@ kostenlosen Makro-Fernbedienung für den PC, die ein Handy oder Tablet zum Bedie
 Geschwindigkeit, Strom, Produktion, Evolution und (mit UTLogistics) deine Züge erscheinen live auf den
 Buttons, und Buttons pausieren, beschleunigen, speichern oder reihen Forschung ein.
 
-[English](README.md) · **Deutsch**
+[English](https://github.com/Marcel1853/TouchDeck_Bridge/blob/main/README.md) · **Deutsch**
 
 - Braucht Factorio 2.1. Space Age ist optional.
 - **Arbeitet mit [UTLogistics](https://mods.factorio.com/mod/UTLogistics) zusammen**, wenn es installiert
