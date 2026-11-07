@@ -1,0 +1,14 @@
+{
+  "name": "touchdeck-bridge",
+  "version": "0.0.1",
+  "title": "TouchDeck Bridge",
+  "author": "Marcel171297",
+  "factorio_version": "2.1",
+  "dependencies": [
+    "base >= 2.1",
+    "? space-age",
+    "? UTLogistics"
+  ],
+  "description": "Shows your Factorio game on TouchDeck – the free macro remote that turns a phone or tablet into a control panel: research, speed, power, production, evolution and UTLogistics trains live, plus buttons for pause, speed, save and research. Needs the TouchDeck plugin “Factorio”. No launch options, no network.",
+  "homepage": "https://github.com/Marcel1853/touchdeck"
+}
