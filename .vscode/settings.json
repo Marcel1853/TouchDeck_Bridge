@@ -1,0 +1,42 @@
+{
+  "factorio.versions": [
+    {
+      "name": "factorio",
+      "factorioPath": "/mnt/6459bc3a-dd91-42e5-8723-71427d99d0ba/SteamLibrary/steamapps/common/Factorio/bin/x64/factorio"
+    }
+  ],
+  "Lua.runtime.version": "Lua 5.2",
+  "Lua.runtime.builtin": {
+    "io": "disable",
+    "os": "disable",
+    "coroutine": "disable"
+  },
+  "Lua.workspace.checkThirdParty": "ApplyInMemory",
+  "Lua.workspace.library": [
+    "/home/marcel/.config/Code/User/workspaceStorage/fba8d90bcfe1da397de1814364ad239f/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library/runtime",
+    "/home/marcel/.config/Code/User/workspaceStorage/fba8d90bcfe1da397de1814364ad239f/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library/runtime-api",
+    "/home/marcel/.config/Code/User/workspaceStorage/fba8d90bcfe1da397de1814364ad239f/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library/core",
+    "/home/marcel/.config/Code/User/workspaceStorage/fba8d90bcfe1da397de1814364ad239f/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library/base",
+    "/home/marcel/.config/Code/User/workspaceStorage/fba8d90bcfe1da397de1814364ad239f/justarandomgeek.factoriomod-debug/sumneko-3rd/factorio/library/lua"
+  ],
+  "Lua.diagnostics.globals": [
+    "data",
+    "mods",
+    "settings",
+    "script",
+    "game",
+    "storage",
+    "helpers",
+    "defines",
+    "remote",
+    "commands",
+    "prototypes",
+    "rendering",
+    "serpent",
+    "log",
+    "util"
+  ],
+  "Lua.workspace.userThirdParty": [
+    "/home/marcel/.config/Code/User/workspaceStorage/acc8aa8095d14fbaddaef9e638899504/justarandomgeek.factoriomod-debug/sumneko-3rd"
+  ]
+}
